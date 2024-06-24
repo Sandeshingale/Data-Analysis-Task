@@ -43,7 +43,7 @@ Use the Mantine Table component to display your processed data in a structured f
 
 
 ## Screenshots
-### Indian agricultre analytics
+### Crop with Maximum and Minimum Production
 ![Screenshot (42)](https://github.com/Sandeshingale/Data-Analysis-Task/assets/95642895/3d20c410-9a03-49a0-8b14-c4d6f1ce09c8)
 
 ![Screenshot (3)](https://github.com/Sandeshingale/Data-Analysis-Task/assets/95642895/ad2372d8-0b89-4a74-a903-d95c31e2e9cf)
@@ -51,5 +51,5 @@ Use the Mantine Table component to display your processed data in a structured f
 ![Screenshot (41)](https://github.com/Sandeshingale/Data-Analysis-Task/assets/95642895/3feb26f1-d345-4580-b679-8d0c9fad0e25)
 
 
-### Crop Averages 
+### Average yield and cultivation Area of the Crop
 ![Screenshot (43)](https://github.com/Sandeshingale/Data-Analysis-Task/assets/95642895/ca62b117-8ae1-4e7c-abd3-1ab54a618ac6)
