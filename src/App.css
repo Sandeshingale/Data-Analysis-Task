@@ -1,0 +1,21 @@
+/* Add padding and border styling for table cells */
+table th, table td {
+  padding: 12px 15px;
+  border: 1px solid #dee2e6;
+}
+
+/* Add border to the table */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/* Add border to the table header */
+table thead {
+  background-color: #f8f9fa;
+}
+
+/* Add highlight color on hover */
+table tbody tr:hover {
+  background-color: #f1f3f5;
+}
