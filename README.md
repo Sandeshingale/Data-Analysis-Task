@@ -10,8 +10,14 @@
     	Delete any unnecessary Files and Code from the Default CRA setup, Such as default CSS,test Files,
         logo,and any pre-existing components and setup.
 
-
 2.Install Mantine v7:
   * ADD Mantine to your Project:
     Install Mantine and its dependenicies:
     $ yarn add @mantine/core @mantine/hooks
+
+3.Create and Display Tables:
+  *Create Components:
+    Create React Components to handle Data fetching, processing and displaying Tables.
+
+  * Using Mantine Tables:
+     Use Manitine's Table
