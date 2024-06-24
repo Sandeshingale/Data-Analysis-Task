@@ -5,6 +5,13 @@
 
      $ yarn create react-app indian-agriculture-analytics
      cd indian-agriculture-analytics
-   * Remove Unused Code:
+
+    * Remove Unused Code:
     	Delete any unnecessary Files and Code from the Default CRA setup, Such as default CSS,test Files,
         logo,and any pre-existing components and setup.
+
+
+2.Install Mantine v7:
+  * ADD Mantine to your Project:
+    Install Mantine and its dependenicies:
+    $ yarn add @mantine/core @mantine/hooks
