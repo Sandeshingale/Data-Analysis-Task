@@ -8,8 +8,8 @@
 
 
 ```bash
-    yarn create react-app indian-agriculture-analytics
-    cd indian-agriculture-analytics
+    yarn create react-app Data-Analysis-Task
+    cd Data-Analysis-Task
 ```
 
 * Remove Unused Code:
