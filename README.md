@@ -22,9 +22,11 @@ Add Mantine to your Project: Install Mantine and its dependenicies:
   yarn add @mantine/core @mantine/hooks
  ```
 ### Create and Display Tables: 
- * Create Components: Create React Components to handle Data fetching,     processing and displaying Tables.
+ * Create Components:
+    Create React Components to handle Data fetching,processing and displaying Tables.
 
-* Using Mantine Tables: Use Manitine's Table to Display the analytics results.
+* Using Mantine Tables:
+    Use Manitine's Table to Display the analytics results.
 
 ### Data Fetching and Table Display
 * Fetch and Process Data:
